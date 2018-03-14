@@ -1,8 +1,7 @@
-# Ecstatic [![build status](https://secure.travis-ci.org/jfhbrook/node-ecstatic.png)](http://travis-ci.org/jfhbrook/node-ecstatic) [![codecov.io](https://codecov.io/github/jfhbrook/node-ecstatic/coverage.svg?branch=master)](https://codecov.io/github/jfhbrook/node-ecstatic?branch=master)
+# DISCLAMER:
 
-![](http://imgur.com/vhub5.png)
-
-A simple static file server middleware. Use it with a raw http server,
+  This is a fork of ecastic by https://github.com/jfhbrook/node-ecstatic. This adds html to upload a file.
+# A simple static file server middleware. Use it with a raw http server,
 express/connect or on the CLI!
 
 # Examples:
